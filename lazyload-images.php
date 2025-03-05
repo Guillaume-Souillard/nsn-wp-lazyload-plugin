@@ -3,7 +3,7 @@
  * Plugin Name: LazyLoad Images
  * Plugin URI: https://example.com/lazyload-images
  * Description: Un plugin WordPress pour charger les images en lazyload.
- * Version: 1.0.0
+ * Version: 1.1.1
  * Author: Guillaume Souillard
  * Author URI: https://example.com
  * License: GPL2
