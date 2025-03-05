@@ -1,0 +1,7 @@
+{
+  "name": "guillaume-souillard/nsn-wp-lazyload-plugin",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.1"
+  }
+}
